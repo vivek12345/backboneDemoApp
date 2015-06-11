@@ -1,0 +1,16 @@
+.container{
+	width:100%;
+	padding:10px;
+}
+
+.bookContainer{
+	width:300px;
+	padding:10px;
+}
+
+.bookContainer ul{
+	list-style: none;
+}
+.bookContainer ul li{
+	padding:5px;
+}
